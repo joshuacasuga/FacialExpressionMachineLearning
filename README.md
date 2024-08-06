@@ -10,6 +10,7 @@ Human-computer interaction has become increasingly advanced in recent times. The
 
 ## Objectives:
 Design and train a deep learning convolutional neural network that accurately recognizes and classifies human facial expressions. It should implement concepts of neural networks that aim towards increasing accuracy. The output of the model is a comma separated value (CSV) file that stores target values (0-Angry, 1-Happy, 2-Neutral classifying images of human facial expressions. During testing, given a dataset of test points, the model should perform accurately, producing an accuracy score of 0.76696 or above. This score will be produced by Kaggle, given the model’s resulting CSV file. 
+
 ![image](https://github.com/user-attachments/assets/99e418ff-4ff9-4861-b4a9-ee2929a13296) ![image](https://github.com/user-attachments/assets/673ff9a9-2b23-4abc-b7e6-4b91bd10c235)
 
 ## Methods:
